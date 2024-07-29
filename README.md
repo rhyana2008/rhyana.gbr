@@ -1,1 +1,1 @@
-# rhyana.gbr
+# js-rhyana.gbr
